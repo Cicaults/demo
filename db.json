@@ -1,8 +1,15 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    8,  
+    6,  
+    -2,  
+    2,  
+    4,  
+    17,  
+    256,  
+    1024,  
+    -17,  
+    -19 
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
